@@ -1,0 +1,19 @@
+body{
+    margin:1%;
+}
+.web img{
+    vertical-align: middle;
+    text-align: center;
+}
+.web a{
+    margin-left:2%;
+    text-decoration: none;
+    padding:10%;
+    font-size:1.3rem;
+}
+.sign{
+    margin-left:70% !important;
+    background-color: lightseagreen;
+    border-radius: 1px;
+    
+}
